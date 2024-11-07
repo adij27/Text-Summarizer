@@ -22,3 +22,7 @@ then run the following command:
 
 
 
+save the URI:  977099023574.dkr.ecr.us-east-2.amazonaws.com/text-s
+
+
+
