@@ -125,9 +125,8 @@ then run the following command:
     ECR_REPOSITORY_NAME = simple-app
 
 
-
-
-
+@Credit/Author:
+  Krish Naik
 
 
 
