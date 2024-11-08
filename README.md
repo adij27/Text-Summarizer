@@ -44,11 +44,12 @@ Now,
 ```bash
 open up you local host and port
 ```
-'''
-#Notes:
+
+## Notes:
+'''  
 (For data ingestion) if not able to run code export to this path in gibash
 export PYTHONPATH=/d/Data_Analysis/End-to-End_Text_Summarization/Text-Summarizer/src
-  echo $PYTHONPATH  -  Check path of file
+echo $PYTHONPATH  -  Check path of file
 
 then run the following command:
   textsummarizer/Scripts/python.exe main.py
